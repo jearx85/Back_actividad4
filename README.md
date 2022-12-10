@@ -10,7 +10,7 @@
 ### Paso 2:
 - Crear los semestres en la base de datos: INSERT INTO semester (id) VALUES(1),(2);
 
-Para los usuarios la pgina tiene apartado de registro donde se puede registrar usuarios y escoger el perfil.
+Para los usuarios la pagina tiene apartado de registro donde se puede registrar usuarios y escoger el perfil.
 
 
 
