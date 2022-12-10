@@ -1,3 +1,18 @@
+# Creado por Jeisson Estevens Araque Ramirez-PREELEC2202PC-TDS0033
+## Opcion elegida: 1.
+
+### Paso 1:
+- crear los roles en la base de datos: INSERT INTO roles (id, name) values (1, 'admin'), (2, 'user');
+### Paso 2:
+- Crear los semestres en la base de datos: INSERT INTO semester (id) VALUES(1),(2);
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
