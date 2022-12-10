@@ -1,7 +1,7 @@
 # Creado por Jeisson Estevens Araque Ramirez-PREELEC2202PC-TDS0033
 ## Opcion elegida: 1.
 
-**importante crear el jwt secret con el comando: *php artisan jwt:secret* **
+## **importante crear el jwt secret con el comando: php artisan jwt:secret**
 
 ### Paso 1:
 - Crear la base de datos.
