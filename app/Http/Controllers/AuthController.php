@@ -77,7 +77,13 @@ class AuthController extends Controller
      */
     public function logout()
     {
-        auth()->logout();
+        Auth::logout();
+
+        $request->session()->invalidate();
+
+        $request->session()->regenerateToken();
+
+        return redirect('/');
 
         return response()->json(['message' => 'Successfully logged out']);
     }
